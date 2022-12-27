@@ -29,7 +29,7 @@ siapkan url endpoint
 ```https://ibnux.github.io/BMKG-importer/```
 
 dari aplikasi, unduh file wilayah.json
-```https://ibnux.github.io/BMKG-importer/cuaca/wilayah.json```
+```https://telorceplokdeveloper.github.io/infoBMKG/cuaca/wilayah.json```
 
 Dari json tersebut, kalkulasi lokasi user dengan wilayah terdekat, atau user pilih sendiri.
 
@@ -37,10 +37,10 @@ lalu download cuaca di wilayah yang dipilih berdasarkan kodenya
 ```https://ibnux.github.io/BMKG-importer/cuaca/idWilayah.json```
 
 contoh:
-```https://ibnux.github.io/BMKG-importer/cuaca/501233.json```
+```https://telorceplokdeveloper.github.io/infoBMKG/cuaca/501233.json```
 
 sesuaikan kode cuaca dengan icon di folder icon
-```https://ibnux.github.io/BMKG-importer/icon/5.png```
+```https://telorceplokdeveloper.github.io/BMKG-importer/icon/5.png```
 
 
 # Contoh
@@ -56,5 +56,4 @@ cek folder **contoh**
 
 Silahkan dimanfatkan untuk keperluan anda
 
-Salam
-Ibnu Maksum (@ibnux)
+
