@@ -26,7 +26,7 @@ kecuali anda mau host datanya di Github juga
 # Pakai langsung?
 
 siapkan url endpoint
-```https://ibnux.github.io/BMKG-importer/```
+```https://telorceplokdeveloper.github.io/infoBMKG/```
 
 dari aplikasi, unduh file wilayah.json
 ```https://telorceplokdeveloper.github.io/infoBMKG/cuaca/wilayah.json```
